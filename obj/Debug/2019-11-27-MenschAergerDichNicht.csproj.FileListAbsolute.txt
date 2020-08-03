@@ -1,0 +1,10 @@
+C:\Users\ivoto\OneDrive\Schule\Hit 12\C#\2019-11-27-MenschAergerDichNicht\bin\Debug\2019-11-27-MenschAergerDichNicht.exe.config
+C:\Users\ivoto\OneDrive\Schule\Hit 12\C#\2019-11-27-MenschAergerDichNicht\bin\Debug\2019-11-27-MenschAergerDichNicht.exe
+C:\Users\ivoto\OneDrive\Schule\Hit 12\C#\2019-11-27-MenschAergerDichNicht\bin\Debug\2019-11-27-MenschAergerDichNicht.pdb
+C:\Users\ivoto\OneDrive\Schule\Hit 12\C#\2019-11-27-MenschAergerDichNicht\obj\Debug\2019-11-27-MenschAergerDichNicht.csprojAssemblyReference.cache
+C:\Users\ivoto\OneDrive\Schule\Hit 12\C#\2019-11-27-MenschAergerDichNicht\obj\Debug\_2019_11_27_MenschAergerDichNicht.Properties.Resources.resources
+C:\Users\ivoto\OneDrive\Schule\Hit 12\C#\2019-11-27-MenschAergerDichNicht\obj\Debug\2019-11-27-MenschAergerDichNicht.csproj.GenerateResource.cache
+C:\Users\ivoto\OneDrive\Schule\Hit 12\C#\2019-11-27-MenschAergerDichNicht\obj\Debug\2019-11-27-MenschAergerDichNicht.csproj.CoreCompileInputs.cache
+C:\Users\ivoto\OneDrive\Schule\Hit 12\C#\2019-11-27-MenschAergerDichNicht\obj\Debug\2019-11-27-MenschAergerDichNicht.exe
+C:\Users\ivoto\OneDrive\Schule\Hit 12\C#\2019-11-27-MenschAergerDichNicht\obj\Debug\2019-11-27-MenschAergerDichNicht.pdb
+C:\Users\ivoto\OneDrive\Schule\Hit 12\C#\2019-11-27-MenschAergerDichNicht\obj\Debug\_2019_11_27_MenschAergerDichNicht.Form1.resources
